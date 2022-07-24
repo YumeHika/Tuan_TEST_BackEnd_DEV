@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tuan_TEST_BackEnd_DEV/1.0.0": {
+        "runtime": {
+          "Tuan_TEST_BackEnd_DEV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuan_TEST_BackEnd_DEV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

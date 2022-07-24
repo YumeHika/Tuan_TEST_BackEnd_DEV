@@ -1,0 +1,15 @@
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\bin\Debug\net6.0\Tuan_TEST_BackEnd_DEV.exe
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\bin\Debug\net6.0\Tuan_TEST_BackEnd_DEV.deps.json
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\bin\Debug\net6.0\Tuan_TEST_BackEnd_DEV.runtimeconfig.json
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\bin\Debug\net6.0\Tuan_TEST_BackEnd_DEV.dll
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\bin\Debug\net6.0\Tuan_TEST_BackEnd_DEV.pdb
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.csproj.AssemblyReference.cache
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.AssemblyInfoInputs.cache
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.AssemblyInfo.cs
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.csproj.CoreCompileInputs.cache
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.dll
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\refint\Tuan_TEST_BackEnd_DEV.dll
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.pdb
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\Tuan_TEST_BackEnd_DEV.genruntimeconfig.cache
+C:\Users\yumes\source\repos\Tuan_TEST_BackEnd_DEV\Tuan_TEST_BackEnd_DEV\obj\Debug\net6.0\ref\Tuan_TEST_BackEnd_DEV.dll
